@@ -1,4 +1,4 @@
-# IMPERIAL-CAPSTONE-RODRIGOSCOPEL
+# TUS Beauty - Forecasting Model
 
 Capstone project for Imperial College - Business Analytics From Data to Decisions
 
